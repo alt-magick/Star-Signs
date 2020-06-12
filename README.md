@@ -1,7 +1,5 @@
 # Star-Signs
 
-Star Signs
-
 Aries 
 March 21 to April 20
 You have a lot of energy, but can become reckless at times. You don’t like 
